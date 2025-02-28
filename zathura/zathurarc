@@ -54,7 +54,7 @@ set recolor-reverse-video "true"
 set recolor-keephue "true"
 
 
-set render-loading "false"
+set render-loading "true"
 set scroll-step 50
 unmap f
 map f toggle_fullscreen
