@@ -1,0 +1,154 @@
+clear
+ls
+nvim
+clear
+exit
+echo $nu.config-path
+exit
+clear
+ls
+ls | fzf
+clear
+echo $STARSHIP
+exit
+starship
+z
+exit
+starship preset --help
+starship preset -l
+starship preset gruvbox-rainbow
+starship config
+clear
+ls
+clear
+zi
+clear
+fastfetch 
+clear
+ls
+clear
+fastfetch 
+clear
+fastfetch 
+clear
+fastfetch 
+clear
+ls
+clear
+z
+cd
+clear
+cd Documents/
+ls
+z Git-repos/
+cd Git-repos/
+ls
+clear
+ls
+cd config/
+ls
+..
+ls
+z 215_Project/
+cd 215_Project/
+clear
+ls
+clear
+sudo dnf search libreoffice
+sudo dnf in libreoffice
+sudo dnf up
+exit
+clear
+z 
+clear
+echo $nu.config-path
+echo $nu.env-path
+nvim /home/xero/.config/nushell/env.nu
+echo $nu.config-path
+clear
+nvim /home/xero/.config/nushell/config.nu
+exit
+z
+clear
+ls
+clear
+atuin import auto
+atuin sync
+nvim /home/xero/.config/nushell/config.nu
+clear
+zi
+mkdir ~/.local/share/atuin/<\n>atuin init nu | save ~/.local/share/atuin/init.nu
+nvim /home/xero/.config/nushell/config.nu
+exit
+nu
+exit
+clear
+fastfetch 
+clear
+ls
+clear
+clear
+exit
+clear
+atuin sync auto
+atuin sync
+exit
+clear
+ls
+cler
+clear
+z
+clear
+z nu
+ls
+nvim config.nu
+source config.nu
+ls
+la
+ls
+l
+ls -a
+nvim
+source config.nu
+clear
+ls
+clear
+ls
+clear
+nvim
+source config.nu
+clea
+clear
+ls
+clear
+atuin sync
+atuin
+exit
+ls
+clear
+zi
+yazi
+fastfetch 
+clear
+exit
+cleaar
+clear
+ls
+clear
+fastfetch 
+clear
+exit
+yazi
+clear
+ls
+l
+ls -a
+clear
+exit
+clear
+fetch
+clear
+fastfetch 
+clea
+clear
+exit

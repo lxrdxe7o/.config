@@ -1,0 +1,19 @@
+[Desktop Entry]
+FullScreen=false
+
+[General]
+LockSidebar=true
+ShowSidebar=false
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/Discrete Mathematics and Its Applications_by Kenneth H. Rosen_7th_Edition (1) (1)-1.pdf
+File2[$e]=$HOME/Downloads/Introduction to Java Programming and Data Structures -- Y_ Daniel Liang [Liang, Y_ Daniel] -- 2019 -- Pearson -- f83c0cb693310b3712845d73225b7601 -- Anna’s Archive.epub
+File3[$e]=$HOME/Documents/Notes/ref/Introduction to Java Programming and Data Structures
+File4[$e]=$HOME/Documents/Notes/ref/Introduction to Java Programming and Data Structures.pdf
+Name1[$e]=Discrete Mathematics and Its Applications_by Kenneth H. Rosen_7th_Edition (1) (1)-1.pdf
+Name2[$e]=Introduction to Java Programming and Data Structures -- Y_ Daniel Liang [Liang, Y_ Daniel] -- 2019 -- Pearson -- f83c0cb693310b3712845d73225b7601 -- Anna’s Archive.epub
+Name3[$e]=Introduction to Java Programming and Data Structures
+Name4[$e]=Introduction to Java Programming and Data Structures.pdf
+
+[UiSettings]
+ColorScheme=Kvantum

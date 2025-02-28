@@ -1,0 +1,9 @@
+[Default Applications]
+x-scheme-handler/eclipse+installer=_home_xero_Documents_eclipse-installer_.desktop
+x-scheme-handler/etcher=balenaEtcher.desktop
+inode/directory=thunar.desktop
+application/x-wayland-gnome-saved-search=thunar.desktop
+
+[Added Associations]
+application/vnd.openxmlformats-officedocument.presentationml.presentation=libreoffice-impress.desktop;
+application/pdf=okularApplication_pdf.desktop;

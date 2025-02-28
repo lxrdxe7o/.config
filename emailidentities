@@ -1,0 +1,13 @@
+[General]
+Default Identity=62962056
+
+[Identity #0]
+Default Domain=fedora
+Disable Fcc=false
+Identity=lxrdxe7o
+Image Location=
+Inline Signature=
+Name=lxrdxe7o
+Override Encryption Defaults=false
+Signature Enabled=false
+uoid=62962056

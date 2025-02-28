@@ -1,0 +1,15 @@
+[ExtractDialog]
+1536x864 screen: Window-Maximized=true
+DirHistory[$e]=$HOME/.fonts/,$HOME/Downloads/,$HOME/,$HOME/Desktop/,$HOME/Documents/
+
+[Extraction]
+closeAfterExtraction=true
+openDestinationFolderAfterExtraction=true
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[MainWindow]
+StatusBar=Disabled
+ToolBarsMovable=Disabled
