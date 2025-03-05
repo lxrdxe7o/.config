@@ -1,6 +1,6 @@
 [ExtractDialog]
 1536x864 screen: Window-Maximized=true
-DirHistory[$e]=$HOME/.fonts/,$HOME/Downloads/,$HOME/,$HOME/Desktop/,$HOME/Documents/
+DirHistory[$e]=$HOME/Desktop/,$HOME/.fonts/,$HOME/Downloads/,$HOME/,$HOME/Documents/
 
 [Extraction]
 closeAfterExtraction=true
