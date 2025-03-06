@@ -9,7 +9,8 @@ clipboard-paste-protection = false
 background-opacity = 0.9
 
 ## Theme
-theme = cyberdream
+##theme = cyberdream
+theme = BlueBerryPie
 font-family = MesloLGS Nerd Font
 font-size = 10
 
