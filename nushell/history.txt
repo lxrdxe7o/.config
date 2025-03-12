@@ -167,3 +167,18 @@ git status
 lg
 lazygit
 clear
+lazygit 
+exit
+ls
+clear
+clear 
+clang --version
+clear
+exit
+ls
+clear
+fetch
+clear
+fastfetch 
+clear
+exit
