@@ -182,3 +182,5 @@ clear
 fastfetch 
 clear
 exit
+tmux
+exit
