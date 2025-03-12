@@ -152,3 +152,16 @@ fastfetch
 clea
 clear
 exit
+clear
+ls
+lsd
+clear
+ls
+la
+ls -a
+clear
+z nu
+ls
+gst
+git status
+lg
